@@ -21,8 +21,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: (https://www.frontendmentor.io/solutions/product-review-challenge-TiHmQ0GTlm)
-- Live Site URL: (https://rennan20.github.io/product-preview/)
+- Solution URL: (https://www.frontendmentor.io/challenges/interactive-rating-component-koxpeBUmI/hub)
+- Live Site URL:(https://rennan20.github.io/interactive-rating/)
 
 ### Built with
 
